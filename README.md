@@ -29,40 +29,30 @@ The heart of what I do sits at the core of data, technology, and human-centred t
 
 ---
 
-### 🧰 Tech Stack
+## 🛠️ Tech Stack
 
-#### 📊 Data & Analytics
-
-<p align="left">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python"/>
+### 💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python" />
 </p>
 
-#### 📈 Data Visualisation
-
-<p align="left">
-<img src="https://img.icons8.com/color/48/power-bi.png" width="36" height="36" alt="Power BI"/>
-<img src="https://img.icons8.com/color/48/tableau-software.png" width="36" height="36" alt="Tableau"/>
+### 🎨 UX Design
+<p>
+  <img src="https://skillicons.dev/icons?i=figma" />
+  <img src="https://img.shields.io/badge/Balsamiq-Wireframing-CC0000?style=for-the-badge&logoColor=white" />
 </p>
 
-#### 🏗️ Data Engineering & Concepts
-
-* ETL / ELT Processes
-* Data Cleaning & Transformation
-* Data Modelling (Basic Normalisation)
-
-#### ⚙️ Tools & Workflow
-
-<p align="left">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" width="36" height="36" alt="Bash"/>
+### 📊 Data & Analytics
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
 
-#### 🤖 AI-Assisted Tools
-
-* GitHub Copilot
+### 🔧 Tools & Version Control
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ---
 
