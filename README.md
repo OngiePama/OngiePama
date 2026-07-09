@@ -10,7 +10,7 @@ The heart of what I do sits at the core of data, technology, and human-centred t
 
 ---
 
-### 🌍 About Me
+## 🌍 About Me
 
 * 🌍 Based in Grahamstown, Eastern Cape, 6139
 * 🖥️ Portfolio: https://www.notion.so/About-Me-34fc466e292580d3a521f5543db86f17
@@ -19,7 +19,7 @@ The heart of what I do sits at the core of data, technology, and human-centred t
 
 ---
 
-### 💬 What I Do
+## 💬 What I Do
 
 * Analyse complex datasets to uncover actionable insights
 * Design and structure data pipelines (ETL processes)
@@ -56,22 +56,18 @@ The heart of what I do sits at the core of data, technology, and human-centred t
 
 ---
 
-### 🌐 Connect With Me
+## 🤝 Connect with Me
 
-<p align="left">
-<a href="https://github.com/OngiePama" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub"/>
-</a>
-<a href="https://medium.com/@ongie.pama" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" alt="Medium"/>
-</a>
-</p>
+I'm always open to connecting with professionals, collaborating on projects, and sharing ideas about Information Systems, UX Design, and Data Analytics.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/@ongie.pama)
+[![Medium](https://img.shields.io/badge/Medium-Read%20My%20Articles-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ongie.pama)
 
 ---
 
 ## 📌 Data Engineering/Analytics Projects
 
-<div width="100%" align="center">
+<div width="50%" align="center">
 <a href="https://github.com/OngiePama/competitor-price-monitoring-pipeline">
 <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=OngiePama&repo=competitor-price-monitoring-pipeline&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=27272a&hide_border=true" />
 </a>
@@ -82,7 +78,7 @@ The heart of what I do sits at the core of data, technology, and human-centred t
 
 <br />
 
-<div width="100%" align="center">
+<div width="50%" align="center">
 <a href="https://github.com/OngiePama/customer-revenue-analytics">
 <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=OngiePama&repo=customer-revenue-analytics&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=27272a&hide_border=true" />
 </a>
