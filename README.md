@@ -1,10 +1,12 @@
 # Hi 👋🏽 My name is Ongeziwe Pama
 
-## Data Analyst | Analytics Engineering
+## Information Systems Professional
 
-I am a Data Analyst with Analytics Engineering capabilities, and a 2nd-year Master’s candidate in Information Systems at Rhodes University. My research explores how data visualisation and system design influence user understanding and decision-making.
+I am an Information Systems professional with expertise in data analytics, analytics engineering, business analysis, and user-centred design. Currently a second-year Master’s candidate in Information Systems at Rhodes University, my research explores how the design of digital systems influences user understanding, decision-making and frictionless adoption. 
 
-My work sits at the intersection of data analysis and data engineering, where I design data pipelines, analyse patterns, and build dashboards that deliver actionable insights to solve real business problems.
+I believe that technology is the bridge between deeply understanding people and organisations, and their challenges and creating meaningful solutions that contribute to lasting value. My work ensures that digital systems are practical and contribute to improved decision-making for both individuals and organisations.
+
+The heart of what I do sits at the core of data, technology, and human-centred thinking. I design and develop digital systems, including data pipelines, analytics dashboards, and software that helps people and organisations make better decisions.
 
 ---
 
