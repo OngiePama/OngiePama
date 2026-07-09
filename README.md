@@ -79,7 +79,7 @@ The heart of what I do sits at the core of data, technology, and human-centred t
 
 ---
 
-## 📌 Featured Projects
+## 📌 Data Engineering/Analytics Projects
 
 <div width="100%" align="center">
 <a href="https://github.com/OngiePama/competitor-price-monitoring-pipeline">
