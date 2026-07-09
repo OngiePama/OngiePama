@@ -12,7 +12,7 @@ The heart of what I do sits at the core of data, technology, and human-centred t
 
 ### 🌍 About Me
 
-* 🌍 Based in Grahamstown
+* 🌍 Based in Grahamstown, Eastern Cape, 6139
 * 🖥️ Portfolio: https://www.notion.so/About-Me-34fc466e292580d3a521f5543db86f17
 * ✉️ Email: [ongie.pama@gmail.com](mailto:ongie.pama@gmail.com)
 * 🧠Reports/Case-studies: https://medium.com/@ongie.pama
