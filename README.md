@@ -25,7 +25,7 @@ At the core of what I do is the intersection of data, technology, and human-cent
 * Design and structure data pipelines (ETL processes)
 * Build dashboards that support decision-making
 * Translate business problems into data-driven solutions
-* Evaluate system performance using real-world datasets
+* Design and develop digital systems optimised for frictionless user adoption
 
 ---
 
