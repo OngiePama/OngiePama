@@ -71,46 +71,146 @@ I'm always open to connecting with professionals, collaborating on projects, and
 
 ## 📌 Data Engineering & Analytics Projects
 
-<div width="50%" align="center">
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
 <a href="https://github.com/OngiePama/south-africa-electricity-analytics">
-<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=OngiePama&repo=south-africa-electricity-analytics&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=27272a&hide_border=true" />
+
+<img src="https://raw.githubusercontent.com/OngiePama/south-africa-electricity-analytics/main/assets/hero/hero-banner.png" width="100%">
+
 </a>
+
+### ⚡ South Africa Electricity Analytics
+
+Business Analytics case study exploring electricity generation, sectoral electricity consumption and long-term energy trends in South Africa.
+
+**Skills**
+- Data Analytics
+- Business Analysis
+- Data Visualisation
+- Trend Analysis
+- Data Acquisition and Cleaning
+
+**Tools**
+`Tableau Prep` `Tableau Desktop` `Microsoft PowerPoint`
+
+➡️ **[View Repository](https://github.com/OngiePama/south-africa-electricity-analytics)**
+
+</td>
+
+<td width="50%" valign="top">
+
 <a href="https://github.com/OngiePama/financial-fraud-analysis">
-<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=OngiePama&repo=financial-fraud-analysis&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=27272a&hide_border=true" />
+
+<img src="https://raw.githubusercontent.com/OngiePama/financial-fraud-analysis/main/assets/hero/hero-banner.png" width="100%">
+
 </a>
-</div>
 
-<br />
+### 💳 Financial Fraud Analysis
 
-<div width="50%" align="center">
+Business intelligence project analysing fraud patterns and identifying high-risk financial transactions.
+
+**Skills**
+- Exploratory Data Analysis
+- Fraud Detection
+- Dashboard Design
+
+**Tools**
+`SQL` `Power BI`
+
+➡️ **[View Repository](https://github.com/OngiePama/financial-fraud-analysis)**
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
 <a href="https://github.com/OngiePama/customer-revenue-analytics">
-<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=OngiePama&repo=customer-revenue-analytics&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=27272a&hide_border=true" />
-</a>
-<a href="https://github.com/OngiePama/remote-job-market-intelligence">
-<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=OngiePama&repo=remote-job-market-intelligence&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=27272a&hide_border=true" />
-</a>
-</div>
 
+<img src="https://raw.githubusercontent.com/OngiePama/customer-revenue-analytics/main/assets/hero/hero-banner.png" width="100%">
+
+</a>
+
+### 📈 Customer Revenue Analytics
+
+Business analytics project investigating customer behaviour, revenue trends and business performance.
+
+**Skills**
+- Business Intelligence
+- KPI Analysis
+- Dashboard Design
+- Data Visualisation
+
+**Tools**
+`Power BI` `Excel`
+
+➡️ **[View Repository](https://github.com/OngiePama/customer-revenue-analytics)**
+
+</td>
+
+<td width="50%" valign="top">
+
+<a href="https://github.com/OngiePama/remote-job-market-intelligence">
+
+<img src="https://raw.githubusercontent.com/OngiePama/remote-job-market-intelligence/main/assets/hero/hero-banner.png" width="100%">
+
+</a>
+
+### 🌍 Remote Job Market Intelligence
+
+Data analytics project exploring trends in the international remote job market.
+
+**Skills**
+- Exploratory Data Analysis
+- Business Intelligence
+- Trend Analysis
+
+**Tools**
+`Python` `SQL` `Tableau`
+
+➡️ **[View Repository](https://github.com/OngiePama/remote-job-market-intelligence)**
+
+</td>
+
+</tr>
+</table>
 ---
 
-## 📌 UX Projects
+## 📌 UX Design Projects
 
-<div width="50%" align="center">
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
 <a href="https://github.com/OngiePama/student-shuttle-booking-ux-case-study">
-<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=OngiePama&repo=student-shuttle-booking-ux-case-study&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=27272a&hide_border=true" />
-</a>
-<a href="https://github.com/OngiePama/financial-fraud-analysis">
-<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=OngiePama&repo=financial-fraud-analysis&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=27272a&hide_border=true" />
-</a>
-</div>
 
-<br />
+<img src="https://raw.githubusercontent.com/OngiePama/student-shuttle-booking-ux-case-study/main/assets/hero/hero-banner.png" width="100%">
 
-<div width="50%" align="center">
-<a href="https://github.com/OngiePama/customer-revenue-analytics">
-<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=OngiePama&repo=customer-revenue-analytics&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=27272a&hide_border=true" />
 </a>
-<a href="https://github.com/OngiePama/remote-job-market-intelligence">
-<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=OngiePama&repo=remote-job-market-intelligence&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=27272a&hide_border=true" />
-</a>
-</div>
+
+### 🚐 Student Shuttle Booking UX Case Study
+
+End-to-end UX case study covering user research, problem definition, wireframing, prototyping and usability testing.
+
+**Skills**
+- User Research
+- UX Design
+- Wireframing
+- Prototyping
+- Usability Testing
+
+**Tools**
+`Paper Prototyping` `Balsamiq`
+
+➡️ **[View Repository](https://github.com/OngiePama/student-shuttle-booking-ux-case-study)**
+
+</td>
+
+</tr>
+</table>
