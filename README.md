@@ -72,8 +72,8 @@ I'm always open to connecting with professionals, collaborating on projects, and
 ## 📌 Data Engineering & Analytics Projects
 
 <div width="50%" align="center">
-<a href="https://github.com/OngiePama/south-africa-electricty-analytics">
-<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=OngiePama&repo=south-africa-electricty-analytics&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=27272a&hide_border=true" />
+<a href="https://github.com/OngiePama/south-africa-electricity-analytics">
+<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=OngiePama&repo=south-africa-electricity-analytics&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=27272a&hide_border=true" />
 </a>
 <a href="https://github.com/OngiePama/financial-fraud-analysis">
 <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=OngiePama&repo=financial-fraud-analysis&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=27272a&hide_border=true" />
