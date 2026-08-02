@@ -2,7 +2,7 @@
 
 ## Information Systems Professional
 
-I am an Information Systems professional with expertise in data analytics, user experience (UX) design, software engineering and web application security. Currently, I am a second-year Master’s candidate in Information Systems at Rhodes University. My research explores how the design of digital systems influences user understanding, decision-making and frictionless adoption. 
+I am an Information Systems professional with expertise in data analytics, user experience (UX) design, software development and cybersecurity. Currently, I am a second-year Master’s candidate in Information Systems at Rhodes University. My research explores how the design of digital systems influences user understanding, decision-making and frictionless adoption. 
 
 I believe that technology is the bridge between deeply understanding human and organisational challenges and creating meaningful solutions that deliver lasting value. My work ensures that digital infrastructure is both practical and impact-driven.
 
@@ -31,9 +31,9 @@ At the core of what I do is the intersection of data, technology, and human-cent
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
+### 💻 Software Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,python" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,react,ts,django,mysql" />
 </p>
 
 ### 🎨 UX Design
@@ -42,11 +42,18 @@ At the core of what I do is the intersection of data, technology, and human-cent
   <img src="https://img.shields.io/badge/Balsamiq-Wireframing-CC0000?style=for-the-badge&logoColor=white" />
 </p>
 
-### 📊 Data & Analytics
+### 📊 Data Analytics & Business Intelligence
 <p>
   <img src="https://skillicons.dev/icons?i=mysql" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+</p>
+
+### 🛡️ Cybersecurity
+<p>
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge&logo=owasp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Threat_Modeling-0052CC?style=for-the-badge" />
 </p>
 
 ### 🔧 Tools & Version Control
@@ -54,6 +61,17 @@ At the core of what I do is the intersection of data, technology, and human-cent
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
+---
+
+## 💼 Areas of Expertise
+
+- 📊 Data Analytics & Business Intelligence
+- 💻 Full-Stack Web Development
+- 🎨 User Experience (UX) Design
+- 📈 Business Analysis
+- 🛡️ Cybersecurity (Threat Modeling & Penetration Testing)
+- 🗄️ Database Design & Management
+  
 ---
 
 ## 🤝 Connect with Me
@@ -69,7 +87,7 @@ I'm always open to connecting with professionals, collaborating on projects, and
 
 ---
 
-## 📌 Data Engineering & Analytics Projects
+## 📌 Data Engineering & Analytics
 
 <table>
 <tr>
@@ -182,7 +200,7 @@ Data analytics project exploring trends in the international remote job market.
 
 ---
 
-## 📌 UX Design Projects
+## 📌 UX Design
 
 <table>
 <tr>
@@ -210,6 +228,49 @@ End-to-end UX case study covering user research, problem definition, wireframing
 `Paper Prototyping` `Balsamiq`
 
 ➡️ **[View Repository](https://github.com/OngiePama/student-shuttle-booking-ux-case-study)**
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 📌 Software Development Projects
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<img src="images/kasi-connect-banner.png" width="100%">
+
+### 📱 KeisConnect
+
+A digital platform designed to connect small businesses with local customers through business discovery, service listings, and community engagement.
+
+**Status**
+🚧 Currently in Development
+
+**Skills**
+- Product Development
+- Full-Stack Development
+- UI/UX Design
+- Database Design
+- API Development
+
+**Tech Stack**
+`React` `TypeScript` `Django` `MySQL`
+
+🔒 **Private Repository (Commercial Project)**
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🚀 Coming Soon
+
+Future software development project.
 
 </td>
 
