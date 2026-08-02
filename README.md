@@ -65,11 +65,15 @@ I'm always open to connecting with professionals, collaborating on projects, and
 
 ---
 
-## 📌 Data Engineering/Analytics Projects
+# Work Experience
+
+---
+
+## 📌 Data Engineering & Analytics Projects
 
 <div width="50%" align="center">
 <a href="https://github.com/OngiePama/competitor-price-monitoring-pipeline">
-<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=OngiePama&repo=competitor-price-monitoring-pipeline&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=27272a&hide_border=true" />
+<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=OngiePama&repo=south-africa-electricty-analytics&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=27272a&hide_border=true" />
 </a>
 <a href="https://github.com/OngiePama/financial-fraud-analysis">
 <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=OngiePama&repo=financial-fraud-analysis&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=27272a&hide_border=true" />
@@ -87,3 +91,26 @@ I'm always open to connecting with professionals, collaborating on projects, and
 </a>
 </div>
 
+---
+
+## 📌 UX Projects
+
+<div width="50%" align="center">
+<a href="https://github.com/OngiePama/competitor-price-monitoring-pipeline">
+<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=OngiePama&repo=south-africa-electricty-analytics&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=27272a&hide_border=true" />
+</a>
+<a href="https://github.com/OngiePama/financial-fraud-analysis">
+<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=OngiePama&repo=financial-fraud-analysis&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=27272a&hide_border=true" />
+</a>
+</div>
+
+<br />
+
+<div width="50%" align="center">
+<a href="https://github.com/OngiePama/customer-revenue-analytics">
+<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=OngiePama&repo=customer-revenue-analytics&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=27272a&hide_border=true" />
+</a>
+<a href="https://github.com/OngiePama/remote-job-market-intelligence">
+<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=OngiePama&repo=remote-job-market-intelligence&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=27272a&hide_border=true" />
+</a>
+</div>
