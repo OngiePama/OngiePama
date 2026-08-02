@@ -179,6 +179,7 @@ Data analytics project exploring trends in the international remote job market.
 
 </tr>
 </table>
+
 ---
 
 ## 📌 UX Design Projects
@@ -190,7 +191,7 @@ Data analytics project exploring trends in the international remote job market.
 
 <a href="https://github.com/OngiePama/student-shuttle-booking-ux-case-study">
 
-<img src="https://raw.githubusercontent.com/OngiePama/student-shuttle-booking-ux-case-study/main/assets/hero/hero-banner.png" width="100%">
+<img src="https://raw.githubusercontent.com/OngiePama/student-shuttle-booking-ux-case-study/main/assets/hero/cover.png" width="100%">
 
 </a>
 
