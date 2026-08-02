@@ -6,7 +6,7 @@ I am an Information Systems professional with expertise in data analytics, analy
 
 I believe that technology is the bridge between deeply understanding people and organisations, and their challenges and creating meaningful solutions that contribute to lasting value. My work ensures that digital systems are practical and contribute to improved decision-making for both individuals and organisations.
 
-The heart of what I do sits at the core of data, technology, and human-centred thinking. I design and develop digital systems, including data pipelines, analytics dashboards, and software that helps people and organisations make better decisions.
+The heart of what I do sits at the core of data, technology, and human-centred thinking. I design and develop effective digital systems, including data pipelines, analytics dashboards, and software that are efficient at helping people and organisations make better decisions.
 
 ---
 
