@@ -2,9 +2,9 @@
 
 ## Information Systems Professional
 
-I am an Information Systems professional with expertise in data analytics, analytics engineering, business analysis, and user-centred design. Currently a second-year Master’s candidate in Information Systems at Rhodes University, my research explores how the design of digital systems influences user understanding, decision-making and frictionless adoption. 
+I am an Information Systems professional with expertise in data analytics, user experience (UX) design, analytics/software engineering and web application security. Currently, I am a second-year Master’s candidate in Information Systems at Rhodes University. My research explores how the design of digital systems influences user understanding, decision-making and frictionless adoption. 
 
-I believe that technology is the bridge between deeply understanding people and organisations, and their challenges and creating meaningful solutions that contribute to lasting value. My work ensures that digital systems are practical and contribute to improved decision-making for both individuals and organisations.
+I believe that technology is the bridge between deeply understanding the challenges of people and organisations, and creating meaningful solutions that contribute to lasting value. My work ensures that digital systems are practical and contribute to improved decision-making for both individuals and organisations.
 
 The heart of what I do sits at the core of data, technology, and human-centred thinking. I design and develop effective digital systems, including data pipelines, analytics dashboards, and software that are efficient at helping people and organisations make better decisions.
 
