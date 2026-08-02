@@ -87,8 +87,3 @@ I'm always open to connecting with professionals, collaborating on projects, and
 </a>
 </div>
 
----
-
-My main focus is on understanding how data flows through systems and how it can be transformed into meaningful insights that drive better decision-making.
-
-This GitHub is a reflection of that journey.
