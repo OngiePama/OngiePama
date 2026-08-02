@@ -1,8 +1,6 @@
 # Hi 👋🏽 My name is Ongeziwe Pama
 
-## Information Systems Professional
-
-I am an Information Systems professional with expertise in data analytics, user experience (UX) design, software development and cybersecurity. Currently, I am a second-year Master’s candidate in Information Systems at Rhodes University. My research explores how the design of digital systems influences user understanding, decision-making and frictionless adoption. 
+I am an Information Systems graduate with expertise in data analytics, user experience (UX) design, software development and cybersecurity. Currently, I am a second-year Master’s candidate in Information Systems at Rhodes University. My research explores how the design of digital systems influences user understanding, decision-making and frictionless adoption. 
 
 I believe that technology is the bridge between deeply understanding human and organisational challenges and creating meaningful solutions that deliver lasting value. My work ensures that digital infrastructure is both practical and impact-driven.
 
