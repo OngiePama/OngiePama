@@ -51,8 +51,8 @@ I believe that technology is the bridge between deeply understanding human and o
 </p>
 
 ### 📊 Data Analytics & Business Intelligence
-![PostgreSQL](https://shields.io)
 <p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
   <img src="https://skillicons.dev/icons?i=mysql" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
