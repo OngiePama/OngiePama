@@ -37,12 +37,9 @@ I believe that technology is the bridge between deeply understanding human and o
 ## 🛠️ Tech Stack
 
 ### 💻 Software Development
-![HTLML5](https://shields.io)
-![CSS3](https://shields.io)
-![TailwindCSS](https://shields.io)
-![JavaScript](https://shields.io)
-![PHP](https://shields.io)
-![Laravel](https://shields.io)
+<p>
+  <img src="https://skill-icons.dev/icons?i=javascript,html,css,laravel,php,tailwindcss" />
+</p>
 
 ### 🎨 UX Design
 <p>
@@ -52,7 +49,7 @@ I believe that technology is the bridge between deeply understanding human and o
 
 ### 📊 Data Analytics & Business Intelligence
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=postgresql" />
   <img src="https://skillicons.dev/icons?i=mysql" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
