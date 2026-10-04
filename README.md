@@ -38,7 +38,12 @@ I believe that technology is the bridge between deeply understanding human and o
 
 ### 💻 Software Development
 <p>
-  <img src="https://skill-icons.dev/icons?i=javascript,html,css,laravel,php,tailwindcss" />
+  <img src="https://skillicons.dev/icons?i=html5" />
+  <img src="https://skillicons.dev/icons?i=css3" />
+  <img src="https://skillicons.dev/icons?i=tailwindcss" />
+  <img src="https://skillicons.dev/icons?i=javascript" />
+  <img src="https://skillicons.dev/icons?i=php" />
+  <img src="https://skillicons.dev/icons?i=laravel" />
 </p>
 
 ### 🎨 UX Design
