@@ -38,8 +38,8 @@ I believe that technology is the bridge between deeply understanding human and o
 
 ### 💻 Software Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html5" />
-  <img src="https://skillicons.dev/icons?i=css3" />
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=css" />
   <img src="https://skillicons.dev/icons?i=tailwindcss" />
   <img src="https://skillicons.dev/icons?i=javascript" />
   <img src="https://skillicons.dev/icons?i=php" />
