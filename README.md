@@ -1,10 +1,8 @@
 # Hi 👋🏽 My name is Ongeziwe Pama
 
-I am an Information Systems graduate with expertise in data analytics, user experience (UX) design, software development and cybersecurity. Currently, I am a second-year Master’s candidate in Information Systems at Rhodes University. My research explores how the design of digital systems influences user understanding, decision-making and frictionless adoption. 
+I am an Information Systems Master’s Candidate at Rhodes University and Digital Transformation Professional. My work explores how the architecture of digital systems influences human understanding, frictionless adoption and strategic decision making.
 
-I believe that technology is the bridge between deeply understanding human and organisational challenges and creating meaningful solutions that deliver lasting value. My work ensures that digital infrastructure is both practical and impact-driven.
-
-At the core of what I do is the intersection of data, technology, and human-centred thinking. I design and develop effective digital systems, including data pipelines, analytics dashboards, and software that empower people and organisations to make better decisions.
+I believe that technology is the bridge between deeply understanding human and organisational challenges and creating meaningful, automated solutions that deliver lasting value. Operating at the intersection of data, infrastructure and human-centred design, I specialise in architecting end-to-end digital systems that protect businesses cash flows, optimise operational efficiency, and empower independent operators to control their own growth.
 
 ---
 
@@ -17,22 +15,34 @@ At the core of what I do is the intersection of data, technology, and human-cent
 
 ---
 
-## 💬 What I Do
+## 💼 Areas of Expertise
 
-* Analyse complex datasets to uncover actionable insights
-* Design and structure data pipelines (ETL processes)
-* Build dashboards that support decision-making
-* Translate business problems into data-driven solutions
-* Design and develop digital systems optimised for frictionless user adoption
+### 📊 Data Engineering & Analytics Pipelines 
+- Developing specialised Python automated scripts to web-scrape public datasets and optimise market intelligence.
+- Extracting, cleaning, and structuring messy organisational records into optimised relational databases.
+- Architecting data pipelines that securely feed backed database records into dynamic frontend dashboard.
+
+### 💻 System Architecture & Requirements Engineering
+- Documenting comprehensive Systems Requirements & Design Specifications (SRS) to map engineering and design parameters before code production.
+- Modelling complex relations database schemas to ensure robust data integrity.
+- Designing automated transactional state-machines, including server-side holding mechanisms and expiration loops.
+  
+### 🎨 Human-Centred User Experience (UX) & Interaction
+- Conducting user research and mapping out high-leverage user flows to eliminate friction points on digital platforms.
+- Crafting clean, responsive user interfaces that translate complex backend data into intuitive visual layouts.
+- Engineering the interactive frontend layer of web applications to ensure fast, mobile-first responsiveness.
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 💻 Software Development
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,react,ts,django,mysql" />
-</p>
+![HTLML5](https://shields.io)
+![CSS3](https://shields.io)
+![TailwindCSS](https://shields.io)
+![JavaScript](https://shields.io)
+![PHP](https://shields.io)
+![Laravel](https://shields.io)
 
 ### 🎨 UX Design
 <p>
@@ -41,35 +51,18 @@ At the core of what I do is the intersection of data, technology, and human-cent
 </p>
 
 ### 📊 Data Analytics & Business Intelligence
+![PostgreSQL](https://shields.io)
 <p>
   <img src="https://skillicons.dev/icons?i=mysql" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
 
-### 🛡️ Cybersecurity
-<p>
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge&logo=owasp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Threat_Modeling-0052CC?style=for-the-badge" />
-</p>
-
-### 🔧 Tools & Version Control
+### 🔧 Version Control
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
----
-
-## 💼 Areas of Expertise
-
-- 📊 Data Analytics & Business Intelligence
-- 💻 Full-Stack Web Development
-- 🎨 User Experience (UX) Design
-- 📈 Business Analysis
-- 🛡️ Cybersecurity (Threat Modeling & Penetration Testing)
-- 🗄️ Database Design & Management
-  
 ---
 
 ## 🤝 Connect with Me
