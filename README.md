@@ -49,6 +49,7 @@ I believe that technology is the bridge between deeply understanding human and o
 
 ### 📊 Data Analytics & Business Intelligence
 <p>
+  <img src="https://skillicons.dev/icons?i=python" />
   <img src="https://skillicons.dev/icons?i=postgresql" />
   <img src="https://skillicons.dev/icons?i=mysql" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
