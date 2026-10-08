@@ -1,6 +1,6 @@
 # Hi 👋🏽 My name is Ongeziwe Pama
 
-I am an Information Systems Master’s Candidate at Rhodes University and Digital Transformation Professional. My work explores how the architecture of digital systems influences human understanding, frictionless adoption and strategic decision making.
+I am an Information Systems Master’s Candidate at Rhodes University and IT Analyst. My work explores how the architecture of digital systems influences human understanding, frictionless adoption and strategic decision making.
 
 I believe that technology is the bridge between deeply understanding human and organisational challenges and creating meaningful, automated solutions that deliver lasting value. Operating at the intersection of data, infrastructure and human-centred design, I specialise in architecting end-to-end digital systems that protect businesses cash flows, optimise operational efficiency, and empower independent operators to control their own growth.
 
