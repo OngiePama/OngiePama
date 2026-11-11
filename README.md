@@ -60,7 +60,6 @@ I believe that technology is the bridge between deeply understanding human and o
 </p>
 <img src="https://shields.io" />
 <img src="https://shields.io" />
-
 ### 🔧 Version Control
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
