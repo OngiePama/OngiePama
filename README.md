@@ -1,36 +1,34 @@
 # Hi 👋🏽 My name is Ongeziwe Pama
 
-I am an Information Systems Master’s Candidate at Rhodes University and IT Analyst. My work explores how the architecture of digital systems influences human understanding, frictionless adoption and strategic decision making.
+I am an Information Systems Master’s Candidate at Rhodes University and a Business Analyst. My work explores how the architecture of digital systems influences human understanding, frictionless adoption and strategic decision making.
 
-I believe that technology is the bridge between deeply understanding human and organisational challenges and creating meaningful, automated solutions that deliver lasting value. Operating at the intersection of data, infrastructure and human-centred design, I specialise in architecting end-to-end digital systems that protect businesses cash flows, optimise operational efficiency, and empower independent operators to control their own growth.
+I believe that technology is the bridge between deeply understanding human and organisational challenges and creating meaningful, automated solutions that deliver lasting value. Operating at the intersection of data, infrastructure and human-centred design, I specialise in architecting end-to-end digital systems that protect businesses' cash flows, optimise operational efficiency, and empower independent operators to control their own growth.
 
 ---
 
 ## 🌍 About Me
 
-* 🌍 Based in South Africa
-* 🖥️ Portfolio: https://www.notion.so/About-Me-34fc466e292580d3a521f5543db86f17
+* 🌍 Based in South Africa, Johannesburg
 * ✉️ Email: [ongie.pama@gmail.com](mailto:ongie.pama@gmail.com)
-* 🧠Reports/Case-studies: https://medium.com/@ongie.pama
 
 ---
 
 ## 💼 Areas of Expertise
 
-### 📊 Data Engineering & Analytics Pipelines 
-- Developing specialised Python automated scripts to web-scrape public datasets and optimise market intelligence.
-- Extracting, cleaning, and structuring messy organisational records into optimised relational databases.
-- Architecting data pipelines that securely feed backed database records into dynamic frontend dashboard.
+### 📊 Data Collection, Cleaning & Reporting
+- **Automated Market Research:** Building Python scripts to gather public market and competitor data, saving hours of manual research.
+- **Data Cleanup & Organisation:** Turning messy, scattered records into clean, reliable, and easy-to-query relational databases.
+- **Live Reporting Dashboards:** Connecting backend data directly to interactive dashboards so teams can track KPIs in real time.
 
-### 💻 System Architecture & Requirements Engineering
-- Documenting comprehensive Systems Requirements & Design Specifications (SRS) to map engineering and design parameters before code production.
-- Modelling complex relations database schemas to ensure robust data integrity.
-- Designing automated transactional state-machines, including server-side holding mechanisms and expiration loops.
+### 💻 Business Planning & System Design
+- **Project Blueprints & Requirements:** Writing clear, step-by-step project plans and system specifications before development starts so teams stay aligned.
+- **Smart Data Organisation:** Designing logical database structures that keep company records accurate, linked, and error-free.
+- **Automated Business Rules:** Setting up automated workflows that handle routine status updates—such as holding inventory or expiring unpaid orders—without manual intervention.
   
-### 🎨 Human-Centred User Experience (UX) & Interaction
-- Conducting user research and mapping out high-leverage user flows to eliminate friction points on digital platforms.
-- Crafting clean, responsive user interfaces that translate complex backend data into intuitive visual layouts.
-- Engineering the interactive frontend layer of web applications to ensure fast, mobile-first responsiveness.
+### 🎨 User Experience (UX) & Product Design
+- **Customer Journey Improvement:** Researching how users interact with digital platforms and redesigning confusing steps to eliminate friction.
+- **Clear Visual Design:** Translating complicated spreadsheets and backend metrics into clean, intuitive layouts anyone can understand at a glance.
+- **Responsive Web Interfaces:** Building fast, mobile-friendly frontend 
 
 ---
 
