@@ -58,8 +58,7 @@ I believe that technology is the bridge between deeply understanding human and o
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
-<img src="https://shields.io" />
-<img src="https://shields.io" />
+
 ### 🔧 Version Control
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
