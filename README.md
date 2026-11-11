@@ -79,7 +79,7 @@ I'm always open to connecting with professionals, collaborating on projects, and
 
 ---
 
-## 📌 Data Engineering & Analytics
+## 📌 Business & Data Analysis
 
 <table>
 <tr>
